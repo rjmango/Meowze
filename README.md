@@ -1,6 +1,6 @@
 # Meowze
 
-A cat-themed maze game built with Pygame, originally created as a final project for CS 141.
+A cat-themed maze game built with Pygame, originally created as a final project for CS 141 which is Introduction to the Theory of Computation.
 
 ## About
 
